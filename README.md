@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aryanduamle
-- 👀 I’m interested in learning Technologies and its associated courses 
-- 🌱 I’m currently learning ... Bachelor of engineering 
-- 💞️
-- 📫 How to reach me ...
+-  Hi, I’m @aryanduamle
+-  I’m interested in Learning Technologies and its associated courses 
+-  I’m currently learning ... Bachelor of Engineering 
+
+-How to reach me ...
 Ig-aryandumale05
 Linkedin- Aryan Dumale 
 
